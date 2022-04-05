@@ -1,0 +1,195 @@
+.fw-bold{
+    color: #1c70b0;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
+    font-size:x-large;
+}
+
+.border-white{
+    border: 2px solid #aac4d9;
+}
+
+#b1{
+    -webkit-border-radius: 40px 40px 0px 40px;
+    -moz-border-radius: 40px 40px 0px 40px;
+    border-radius: 40px 40px 0px 40px;
+    
+}
+
+#b2{
+    -webkit-border-radius: 40px 40px 40px 0px;
+    -moz-border-radius: 40px 40px 40px 0px;
+    border-radius: 40px 40px 40px 0px;
+   
+}
+
+#b3{
+    -webkit-border-radius: 40px 0px 40px 40px;
+    -moz-border-radius: 40px 0px 40px 40px;
+    border-radius: 40px 0px 40px 40px;
+}
+
+#b4{
+    -webkit-border-radius: 0px 40px 40px 40px;
+    -moz-border-radius: 0px 40px 40px 40px;
+    border-radius: 0px 40px 40px 40px;
+}
+.txtInput{
+    background-color: #d0e4f5;
+    
+}
+
+.btnReset{
+    background: #1c70b0;
+    background: radial-gradient(circle farthest-side at center center, #1c70b0 2%, #71a4cb 98%);
+    background: -webkit-radial-gradient(circle farthest-side at center center, #1c70b0 2%, #71a4cb 98%);
+    background: -moz-radial-gradient(circle farthest-side at center center, #1c70b0 2%, #71a4cb 98%);
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 10px 12px -1px rgba(0,0,0,0.29);
+-webkit-box-shadow: 2px 10px 12px -1px rgba(0,0,0,0.29);
+-moz-box-shadow: 2px 10px 12px -1px rgba(0,0,0,0.29);
+}
+
+.btnSolid{
+    border: 3px solid #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnSolid:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.bTop{
+    border-top: 3px solid #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.bTop:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+
+.bRight{
+    border-right: 3px solid #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.bRight:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+
+.bBottom{
+    border-bottom: 3px solid #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.bBottom:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.bLeft{
+    border-left:  3px solid #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.bLeft:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnDotted{
+    border: 2px dotted #1c70b0;
+}
+.btnDotted:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnDashed{
+    border: 2px dashed #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnDashed:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnDouble{
+    border: 4px double #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnDouble:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnGroove{
+    border: 4px groove #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnGroove:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnRidge{
+    border: 4px ridge #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+
+.btnRidge:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnInset{
+    border: 4px inset #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnInset:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnOutset{
+    border: 4px outset #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnOutset:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnHidden{
+    border: 4px hidden #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnHidden:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btnNone{
+    border: 4px none #1c70b0;
+    background-color: rgb(229, 234, 236);
+}
+.btnNone:hover{
+    background-color: rgb(164, 199, 212);
+    color: black;
+}
+
+.btn{
+    border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+background: #158cba;
+border: none;
+}
